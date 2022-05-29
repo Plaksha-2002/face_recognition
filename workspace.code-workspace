@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "DS",
+			"path": ".."
+		},
+		{
+			"name": "c project",
+			"path": "..\\..\\c\\c project"
+		},
+		{
+			"name": "Web dev",
+			"path": "..\\..\\Web dev"
+		},
+		{
+			"path": "..\\..\\gdsc"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.C": "c",
+			"iostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "gdsc"
+	}
+}
